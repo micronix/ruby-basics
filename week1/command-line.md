@@ -1,6 +1,12 @@
 # Command Line Project
 
-- Create a new file in c9 using the touch command name the file diary.txt
+## create a file
+
+Create a new file in c9 using the touch command name the file diary.txt
+
+```bash
+touch dairy.txt
+```
 
 - Type the following in the command line:
   download the following file from the command line remember that to download the moby dick file we did.
