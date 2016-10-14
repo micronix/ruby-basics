@@ -21,10 +21,10 @@ The first parameter *www.textfiles.com/etext/FICTION/mobydick* is the url of the
 
 Download a different book by replacing the url and the filename in the example.
 
-# 3. Verify download
+## 3. Verify download
 After you run your command, verify that the file was downloaded by listing the contents of the current directory. Do you remember which command to use?
 
-# 4. Read contents
+## 4. Read contents
 Now that you know the file is there open the file in the command line with the more command. For example to open up the mobydick.txt file I used.
 
 ```bash
@@ -34,14 +34,14 @@ ctdinstructor:~/workspace $ more mobydick.txt
 Remember that when we run the *more* command doesn't behave like the other commands. The other commands display the command output and then exit. The *more* command stays open until you tell it to quit. While it is open you can interact with it by pressing the space bar to go to the next page or pressing the _q_ key to quit.
 
 
-# 5. Create directories
+## 5. Create directories
 Remember that to organize things a little better we can use directories.
 
 Create a directory named _favorites_. If you don't remember the command, a useful way to figure it out is by googling "create directory linux".
 
 To verify that you created your directory successfully you can use the *ls* command or use the file navigation on the left hand side.
 
-# 6. Moving files
+## 6. Moving files
 The *mv* command is used to move files. For example to move the books.txt file into the favorites directory you would run the following command:
 
 ```bash
@@ -54,11 +54,11 @@ To verify that the files are there you can use the file navigator on the left si
 
 By default the *ls* command lists the contents of the current directory, but you can pass an argument, the name of directory to list the contents of that directory.
 
-# 7. Change directories
+## 7. Change directories
 
 Use the *cd* command to change the current directory to the favorites directory and then list the contents of the folder. This means that simply typing *ls* should list books.txt, songs.txt and foods.txt
 
-# 8. Remove files
+## 8. Remove files
 
 While you are still in the favorites directory remove the file books.txt using the rm command.
 
