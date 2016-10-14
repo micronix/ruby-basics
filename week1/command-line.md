@@ -1,4 +1,4 @@
-== Command Line Project ==
+# Command Line Project
 
 - Create a new file in c9 using the touch command name the file diary.txt
 
