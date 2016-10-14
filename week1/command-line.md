@@ -70,4 +70,7 @@ List the contents of the current directory.
 Remove the other two files.
 
 
+## Resources
 
+- [Cheat Sheet on Command Line](https://github.com/0nn0/terminal-mac-cheatsheet)
+- [Udacity Course on the Command Line](https://classroom.udacity.com/courses/ud595)
