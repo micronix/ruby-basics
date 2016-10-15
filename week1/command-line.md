@@ -1,5 +1,7 @@
 # Command Line Project
 
+[Lecture Video](http://youtu.be/G49U8c967Xs)
+
 ## 1. Creating Files
 
 In the command line create 3 files books.txt, foods.txt and songs.txt. Then open them using the file navigator and add type your 3 favorite books in books.txt, your 3 favorite foods in foods.txt and your favorite songs in songs.txt. Remember to save your files after you modify each file.
