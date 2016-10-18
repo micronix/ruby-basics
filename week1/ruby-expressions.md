@@ -43,5 +43,5 @@ Evaluate the following expressions
 
 ## Resources
 
-- pine.fm Learn to Program Lesson 1-3
-- Learn Ruby the Hard Way Exercises 1-10
+- [pine.fm Learn to Program Lesson 1-3](https://pine.fm/LearnToProgram/chap_02.html)
+- [Learn Ruby the Hard Way Exercises 1-10](https://learnrubythehardway.org/book)
