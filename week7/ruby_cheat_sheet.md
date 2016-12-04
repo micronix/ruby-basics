@@ -329,7 +329,7 @@ We reduce multiple booleans into one result by using logical operators
 |Operator|Symbol|Description|
 |--------|------|-----------|
 | and    | &&   | needs both sides to be true in order for the expression to be true |
-| or     | ||   | needs at least 1 side of the expression to be true in order for the whole expression to be true |
+| or     | \|\|   | needs at least 1 side of the expression to be true in order for the whole expression to be true |
 | xor    | ^    | needs exactly 1 side of the expression to be true in order for the whole expression to be true |
 | not    | !    | reverses the value of the boolean |
 
