@@ -534,7 +534,7 @@ end
 
 ## Arrays
 
-An array is used to hold a collection of items/elements. An item can be any object: symbols, string, number, boolean, array, hash. All hashes begin and end with square brackets `[]`. The items are separated by commas
+An array is used to hold a collection of items/elements. An item can be any object: symbols, string, number, boolean, array, hash. All arrays begin and end with square brackets `[]`. The items are separated by commas
 
 ```ruby
 # format
