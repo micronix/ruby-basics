@@ -6,3 +6,5 @@ Lesson | Description
 3 | Getting input, Boolean logic, if statements
 4 | nil, while statements
 5 | arrays, ranges
+6 | blocks, functions/methods
+7 | functions/methods, scope
